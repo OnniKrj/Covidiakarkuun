@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3ya0xpsdlQ/v0KHDKKMV+49tEGajkUZVaAdgnlE1pRQ81ortE0x5m5nPBK27x/qlZwLURfCHfT/Eupw4mRKNw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Onni\\source\\repos\\CovidKarkuun\\CovidKarkuun\\CovidKarkuun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onni\\.nuget\\packages\\cyotek.drawing.bitmapfont\\2.0.1\\cyotek.drawing.bitmapfont.2.0.1.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\fontstashsharp\\0.9.2\\fontstashsharp.0.9.2.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\jypeli.farseerphysics.net\\1.0.11\\jypeli.farseerphysics.net.1.0.11.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\jypeli.net\\10.0.9\\jypeli.net.10.0.9.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\stbimagesharp\\2.22.4\\stbimagesharp.2.22.4.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\stbtruetypesharp\\1.24.7\\stbtruetypesharp.1.24.7.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512",
+    "C:\\Users\\Onni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Jypeli.NET from 10.1.6 to 10.0.9. Reference the package directly from the project to select a different version. \r\n CovidKarkuun -> Jypeli.FarseerPhysics.NET 1.0.11 -> Jypeli.NET (>= 10.1.6) \r\n CovidKarkuun -> Jypeli.NET (>= 10.0.9)",
+      "libraryId": "Jypeli.NET",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
