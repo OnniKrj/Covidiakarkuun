@@ -1,7 +1,4 @@
-# Covidiakarkuun
-Ohjelmointi 1 harkkatyö
-
-Ensimmäinen pelini, jonka toteutin parityönä kurssikaverini kanssa.
-Covidia karkuun on C# toteutettu tasohyppely peli itse piirretyillä tasoilla.
-
-Lisätty kokonaisena jälkeenpäin Githubiin, alunperin luotu GitLabin avulla.
+# Covidiakarkuun - 2d tasohyppely
+- Ohjelmointi 1 harkkatyö
+- Ensimmäinen pelini, joka on toteutettu parityönä.
+- Lisätty kokonaisena jälkeenpäin Githubiin, alunperin luotu GitLabiin.
